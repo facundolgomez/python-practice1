@@ -66,10 +66,8 @@ variable_04 = "90"
 variable_05 = 100
 
 # COMPLETAR - INICIO
-
-
+resultado = not variable_02 or variable_03 or variable_04 or variable_05  or variable_01
 
 # COMPLETAR - FIN
 
 assert resultado == 80
-
